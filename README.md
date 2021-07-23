@@ -8,7 +8,7 @@ Requires at least: 3.0.1
 
 Tested up to: 3.4
 
-Stable tag: 4.4
+Stable tag: 4.3
 
 Arabon is a digital system that allows gift cards to be accumulated within a municipality, commercial core or shopping center.
 This plugin enables a connection to Arabon's back-end, making it possible to synchronize stores, products and categories.
